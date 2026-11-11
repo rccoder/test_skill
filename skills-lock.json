@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "healthy-eating": {
+      "source": "rccoder/test_skill",
+      "sourceType": "github",
+      "skillPath": "healthy-eating/SKILL.md",
+      "computedHash": "5abe408112c282cccfa15b33cbde240af51accbcebdb2adb79859366c6a29510"
+    }
+  }
+}
