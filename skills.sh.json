@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Lifestyle",
+      "description": "Skills for daily life and well-being.",
+      "skills": [
+        "healthy-eating"
+      ]
+    }
+  ]
+}
